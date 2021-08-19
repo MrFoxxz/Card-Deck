@@ -1,0 +1,21 @@
+{
+  "name": "cards-deck",
+  "version": "1.0.0",
+  "description": "Ejemplo de sincronizacion de juego de cartas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "author": "Miguel Angel Jaimes C",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
